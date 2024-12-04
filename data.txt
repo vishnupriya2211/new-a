@@ -16,3 +16,5 @@ command for adding staged file to local respositaory
 >git config --global "username" [to add username]
 
 >git config --global "useremail"[to add useremaill]
+
+second
